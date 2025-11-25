@@ -1,0 +1,75 @@
+2025-11-25 10:50:12 [INFO] --- Starting new test, restarting app ---
+2025-11-25 10:50:13 [INFO] App restarted successfully
+2025-11-25 10:50:13 [INFO] FUNC_01: Locating Views menu
+2025-11-25 10:50:15 [INFO] Views menu is displayed
+2025-11-25 10:50:16 [INFO] Clicked Views
+2025-11-25 10:50:16 [INFO] Views screen visibility: true
+2025-11-25 10:50:16 [INFO] Test completed: FUNC_01: Verify user can open Views menu | Status: PASS
+2025-11-25 10:50:16 [INFO] Saving screenshot: D:\WORK\Assignmnet_API_test\screenshots\PASS_FUNC_01\PASS_FUNC_01_FUNC_01_Verify_user_can_open_Views_menu.png
+2025-11-25 10:50:17 [INFO] Screenshot saved
+2025-11-25 10:50:17 [INFO] --- Starting new test, restarting app ---
+2025-11-25 10:50:18 [INFO] App restarted successfully
+2025-11-25 10:50:18 [INFO] FUNC_02: Navigating to Buttons screen
+2025-11-25 10:50:20 [INFO] Clicked Views
+2025-11-25 10:50:22 [INFO] Clicked Buttons
+2025-11-25 10:50:22 [INFO] Any button displayed: true
+2025-11-25 10:50:22 [INFO] Test completed: FUNC_02: Verify clicking Buttons displays button screen | Status: PASS
+2025-11-25 10:50:22 [INFO] Saving screenshot: D:\WORK\Assignmnet_API_test\screenshots\PASS_FUNC_02\PASS_FUNC_02_FUNC_02_Verify_clicking_Buttons_displays_button_screen.png
+2025-11-25 10:50:23 [INFO] Screenshot saved
+2025-11-25 10:50:23 [INFO] --- Starting new test, restarting app ---
+2025-11-25 10:50:23 [INFO] App restarted successfully
+2025-11-25 10:50:23 [INFO] UI_01: Opening Buttons screen
+2025-11-25 10:50:27 [INFO] Found 2 buttons to validate text
+2025-11-25 10:50:27 [INFO] Button text: "NORMAL"
+2025-11-25 10:50:27 [INFO] Button text: "SMALL"
+2025-11-25 10:50:27 [INFO] Test completed: UI_01: Verify button text is readable on Buttons screen | Status: PASS
+2025-11-25 10:50:27 [INFO] Saving screenshot: D:\WORK\Assignmnet_API_test\screenshots\PASS_UI_01\PASS_UI_01_UI_01_Verify_button_text_is_readable_on_Buttons_screen.png
+2025-11-25 10:50:28 [INFO] Screenshot saved
+2025-11-25 10:50:28 [INFO] --- Starting new test, restarting app ---
+2025-11-25 10:50:29 [INFO] App restarted successfully
+2025-11-25 10:50:29 [INFO] UI_02: Checking alignment of Views list items
+2025-11-25 10:50:32 [INFO] Found 16 list items
+2025-11-25 10:50:32 [INFO] Item "API Demos" x-position: 44
+2025-11-25 10:50:32 [INFO] Item "Animation" x-position: 0
+2025-11-25 10:50:32 [INFO] Item "Auto Complete" x-position: 0
+2025-11-25 10:50:32 [INFO] Item "Buttons" x-position: 0
+2025-11-25 10:50:32 [INFO] Item "Chronometer" x-position: 0
+2025-11-25 10:50:32 [INFO] Item "Controls" x-position: 0
+2025-11-25 10:50:32 [INFO] Item "Custom" x-position: 0
+2025-11-25 10:50:32 [INFO] Item "Date Widgets" x-position: 0
+2025-11-25 10:50:32 [INFO] Item "Drag and Drop" x-position: 0
+2025-11-25 10:50:32 [INFO] Item "Expandable Lists" x-position: 0
+2025-11-25 10:50:32 [INFO] Item "Focus" x-position: 0
+2025-11-25 10:50:32 [INFO] Item "Gallery" x-position: 0
+2025-11-25 10:50:32 [INFO] Item "Game Controller Input" x-position: 0
+2025-11-25 10:50:33 [INFO] Item "Grid" x-position: 0
+2025-11-25 10:50:33 [INFO] Item "Hover Events" x-position: 0
+2025-11-25 10:50:33 [INFO] Item "ImageButton" x-position: 0
+2025-11-25 10:50:33 [INFO] Base alignment X: 44
+2025-11-25 10:50:33 [INFO] Alignment diff: 0
+2025-11-25 10:50:33 [INFO] Alignment diff: 44
+2025-11-25 10:50:33 [INFO] Alignment diff: 44
+2025-11-25 10:50:33 [INFO] Alignment diff: 44
+2025-11-25 10:50:33 [INFO] Alignment diff: 44
+2025-11-25 10:50:33 [INFO] Alignment diff: 44
+2025-11-25 10:50:33 [INFO] Alignment diff: 44
+2025-11-25 10:50:33 [INFO] Alignment diff: 44
+2025-11-25 10:50:33 [INFO] Alignment diff: 44
+2025-11-25 10:50:33 [INFO] Alignment diff: 44
+2025-11-25 10:50:33 [INFO] Alignment diff: 44
+2025-11-25 10:50:33 [INFO] Alignment diff: 44
+2025-11-25 10:50:33 [INFO] Alignment diff: 44
+2025-11-25 10:50:33 [INFO] Alignment diff: 44
+2025-11-25 10:50:33 [INFO] Alignment diff: 44
+2025-11-25 10:50:33 [INFO] Alignment diff: 44
+2025-11-25 10:50:33 [INFO] Test completed: UI_02: Verify alignment of list items in Views menu | Status: PASS
+2025-11-25 10:50:33 [INFO] Saving screenshot: D:\WORK\Assignmnet_API_test\screenshots\PASS_UI_02\PASS_UI_02_UI_02_Verify_alignment_of_list_items_in_Views_menu.png
+2025-11-25 10:50:34 [INFO] Screenshot saved
+2025-11-25 10:50:34 [INFO] --- Starting new test, restarting app ---
+2025-11-25 10:50:34 [INFO] App restarted successfully
+2025-11-25 10:50:34 [INFO] PERF_01: Measuring app launch time
+2025-11-25 10:50:35 [INFO] App restarted, waiting for UI
+2025-11-25 10:50:37 [INFO] Launch time: 2.59s
+2025-11-25 10:50:37 [INFO] Test completed: PERF_01: App launch time performance | Status: PASS
+2025-11-25 10:50:37 [INFO] Saving screenshot: D:\WORK\Assignmnet_API_test\screenshots\PASS_PERF_01\PASS_PERF_01_PERF_01_App_launch_time_performance.png
+2025-11-25 10:50:38 [INFO] Screenshot saved
